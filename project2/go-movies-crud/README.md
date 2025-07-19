@@ -27,8 +27,8 @@ This project provides a simple RESTful API for managing a collection of movies. 
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone <your-repository-url>
-    cd go-movies-crud
+    git clone https://github.com/abhiii71/go-projects.git
+    cd project2/go-movies-crud
     ```
 
     (Note: Assuming `go-movies-crud` is your project directory)

@@ -1,4 +1,3 @@
-Here’s a clean and professional `README.md` for your Go Bookstore project based on your detailed outline:
 
 ---
 

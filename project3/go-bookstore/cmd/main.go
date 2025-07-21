@@ -13,5 +13,7 @@ func main() {
 
 	routes.RegisterBookStoreRoute(r)
 	http.Handle("/", r)
-	log.Fatal(http.ListenAndServe(":9090", r))
+	port := ":9090"
+	log.Println("Server started on port", port)
+	log.Fatal(http.ListenAndServe(port, r))
 }
